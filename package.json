@@ -152,5 +152,7 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "closureWhitelist": []
+  "closureWhitelist": [
+    "mdc-animation"
+  ]
 }
